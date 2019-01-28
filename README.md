@@ -1,7 +1,7 @@
 # fasthttp-routing
 
-[![GoDoc](https://godoc.org/github.com/qiangxue/fasthttp-routing?status.png)](http://godoc.org/github.com/qiangxue/fasthttp-routing)
-[![Go Report](http://goreportcard.com/badge/qiangxue/fasthttp-routing)](http://goreportcard.com/report/qiangxue/fasthttp-routing)
+[![GoDoc](https://godoc.org/github.com/jackSpanrrows/fasthttp-routing?status.png)](http://godoc.org/github.com/jackSpanrrows/fasthttp-routing)
+[![Go Report](http://goreportcard.com/badge/jackSpanrrows/fasthttp-routing)](http://goreportcard.com/report/jackSpanrrows/fasthttp-routing)
 
 ## Description
 
@@ -37,7 +37,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/qiangxue/fasthttp-routing"
+	"github.com/jackSpanrrows/fasthttp-routing"
 	"github.com/valyala/fasthttp"
 )
 
